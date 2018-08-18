@@ -15,13 +15,13 @@
 
 <!-- doc-templite START generated -->
 <!-- name = 'doc-templite' -->
-<!-- version = '1.1.0' -->
+<!-- version = '1.1.1' -->
 <!-- time = '2018 8.17' -->
 版本 | 与日期 | 最新更新 | 更多
 ---|---|---|---
-[1.1.0][commit] | ⏰ 2018 8.17 | ![version] | [源码解释][more]
+[1.1.1][commit] | ⏰ 2018 8.17 | ![version] | [源码解释][more]
 
-[commit]: https://github.com/chinanf-boy/doc-templite/tree/v1.1.0
+[commit]: https://github.com/chinanf-boy/doc-templite/tree/v1.1.1
 [version]: https://img.shields.io/npm/v/doc-templite.svg
 [more]: https://github.com/chinanf-boy/Source-Explain
 
