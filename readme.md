@@ -9,11 +9,23 @@
 
 <!-- [中文](./readme.md) | ~~[english](./readme.en.md)~~ -->
 
-
 ---
 
-## explian 🀄️
+## explian ✅
 
+<!-- doc-templite START generated -->
+<!-- name = 'doc-templite' -->
+<!-- version = '1.1.0' -->
+<!-- time = '2018 8.17' -->
+版本 | 与日期 | 最新更新 | 更多
+---|---|---|---
+[1.1.0][commit] | ⏰ 2018 8.17 | ![version] | [源码解释][more]
+
+[commit]: https://github.com/chinanf-boy/doc-templite/tree/v1.1.0
+[version]: https://img.shields.io/npm/v/doc-templite.svg
+[more]: https://github.com/chinanf-boy/Source-Explain
+
+<!-- doc-templite END generated -->
 
 ## 生活
 
@@ -76,10 +88,10 @@
 <summary> doc-templite的注释 </summary>
 
 ```
-<!-- doc-templite START -->
-<!-- docTempliteId = 'readme' -->
+    <!-- doc-templite START -->
+    <!-- docTempliteId = 'readme' -->
 
-<!-- doc-templite END -->
+    <!-- doc-templite END -->
 ```
 
 2. 自然`doctoc`是可以查找目录下的md文件, 继续借鉴这个函数
@@ -144,11 +156,11 @@ module.exports = {
 > some.md
 
 ```
-<!-- doc-templite START -->
-<!-- docTempliteId = 'readme' -->
-<!-- name = 'yobrave' -->
-<!-- age = 18 -->
-<!-- doc-templite END -->
+    <!-- doc-templite START -->
+    <!-- docTempliteId = 'readme' -->
+    <!-- name = 'yobrave' -->
+    <!-- age = 18 -->
+    <!-- doc-templite END -->
 ```
 
 我想有几个点要讲的
