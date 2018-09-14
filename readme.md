@@ -20,7 +20,7 @@
 <!-- time = '2018 8.17' -->
 版本 | 与日期 | 最新更新 | 更多
 ---|---|---|---
-[v1.1.1][commit] | ⏰ 2018 8.17 | ![version] | [源码解释][source]
+[commit] | ⏰ 2018 8.17 | ![version] | [源码解释][source]
 
 [commit]: https://github.com/chinanf-boy/doc-templite/tree/v1.1.1
 [version]: https://img.shields.io/npm/v/doc-templite.svg
